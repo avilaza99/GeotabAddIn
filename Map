@@ -249,6 +249,6 @@
          <div id="navigationId" class="shadowedRight scrollHost touchScrollClass hardwareAccelerationClass"></div>
       </nav>
       <div id="checkmateContent" class="centerPane hiddenPane"></div>
-      <script src="geotab/default.js" onerror="__showCrashElt()"></script>
+      <script src="https://my828.geotab.com/joavsa/geotab/default.js" onerror="__showCrashElt()"></script>
    </body>
 </html>
